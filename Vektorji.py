@@ -1501,6 +1501,7 @@ class VektorskiProdukt(SpecialThreeDScene):
         )
 
 class Primer(Scene):
+    #ta class je samo zato, če je treba kaj eksperimentirati
     def construct(self):
         """
         kvadrat = Square().set_color(RED)
